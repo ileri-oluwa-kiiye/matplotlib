@@ -1,0 +1,2 @@
+# Matplotlib Crash Course
+This repository provides a concise, practical introduction to Matplotlib and Seaborn; popular plotting libraries in Python. It is designed to be a quick reference to create various types of plots with minimal effort.
